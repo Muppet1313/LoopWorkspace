@@ -283,7 +283,6 @@ jobs:
           #curl url_to_github_commit.patch | git apply --directory=LoopKit -v --whitespace=fix
 
           # Submodule xxxxx patches:
-
           # Add patches for customization of additional submodules by following the templates above, 
           # and make sure to specify the submodule by setting "--directory=(submodule_name)".
           # Several patches may be added per submodule.
